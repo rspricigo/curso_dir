@@ -3,3 +3,5 @@
 Este arquivo é para aprender os estagios do git no curso de git.
 
 Saiba mais no site do git.
+
+Tome café para aprender.
